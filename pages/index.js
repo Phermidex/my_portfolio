@@ -312,11 +312,11 @@ export default function Home() {
             </div>
             <div className="contactme__section--details">
               <p>
-                Phone: <a href="tel:+18096789456">+1 (809) 678-9456</a>
+                Phone: <a href="tel:+18096789456">+1 (809) 673-8436</a>
               </p>
               <p>
                 Email:{" "}
-                <a href="mailto:hermides07@gmail.com">hermides07@gmail.com</a>
+                <a href="mailto:hermides05@gmail.com">hermides07@gmail.com</a>
               </p>
               <p className="f-grand">
                 I love programming, coffee, and my family!
