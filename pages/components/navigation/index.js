@@ -9,7 +9,7 @@ export default function index(props) {
         <Navbar variant="light" expand="lg">
           <Container fluid>
           <Navbar.Brand className="text-blue" href="#home">
-            <Image width={298} src="/images/logo.png" alt="Hermides Medina" />  
+            <Image width={298} src="./images/logo.png" alt="Hermides Medina" />  
           </Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav" className="end-0 justify-content-end">
