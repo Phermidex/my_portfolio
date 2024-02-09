@@ -102,7 +102,7 @@ export default function Home() {
       <Head>
         <title>Hermides Medina | My portfolio</title>
         <meta name="description" content="Present my portfolio" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="./favicon.ico" />
       </Head>
       <Navigation />
       <Container fluid>
@@ -202,7 +202,7 @@ export default function Home() {
                 style={{ marginTop: "clamp(1rem, -0.875rem + 8.333vw, 3.5rem)", maxWidth: 400, width: '100%' }}
                 className="zindex-1"
                 placeholderSrc="https://placeholder.pics/svg/600/DEDEDE/fff"
-                src="/images/me.png"
+                src="./images/me.png"
                 height="auto"
                 alt="Me"
               />
@@ -218,7 +218,7 @@ export default function Home() {
                 style={{ maxWidth: 400 }}
                 className="zindex-1"
                 placeholderSrc="https://placeholder.pics/svg/600/DEDEDE/fff"
-                src="/images/mehat.png"
+                src="./images/mehat.png"
                 width="100%"
                 height="auto"
                 alt="Me"
