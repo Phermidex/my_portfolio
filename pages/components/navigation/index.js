@@ -14,7 +14,6 @@ export default function index(props) {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav" className="end-0 justify-content-end">
             <Nav>
-                <Nav.Link href="/">Home</Nav.Link>
                 <li><Link className="nav-link nav-link--cursor"  to="aboutMe" spy={true} smooth={true}>About me</Link></li>
                 <li><Link className="nav-link nav-link--cursor"  to="projects" spy={true} smooth={true}>Projects</Link></li>
                 <li><Link className="nav-link nav-link--cursor"  to="contactMe" spy={true} smooth={true}>Contact me</Link></li>
